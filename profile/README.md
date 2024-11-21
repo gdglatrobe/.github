@@ -1,1 +1,1 @@
-## Google Developer Student Club La Trobe University
+## Google Developer Group - La Trobe University
